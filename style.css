@@ -506,6 +506,11 @@ footer {
         width: 90%;
     }
 
+    iframe {
+        width: 90%;
+        height: 270px;
+    }
+
    .main-title {
         font-size: 23px;
     }
